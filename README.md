@@ -1,6 +1,6 @@
 ## Documentation 
 
-High poly fantasy-inspired modern OpenGL C++ flower scene 
+High poly fantasy-inspired modern OpenGL C++ flower scene for eduational use. 
 
 
 ![Screenshot 2023-03-06 093656](https://user-images.githubusercontent.com/110789514/223141554-ef6fbccf-7780-4b2b-8b6e-36e1ff3abf63.png)
@@ -17,3 +17,13 @@ Samserius. (n.d.). Abstract circular geometric background. https://as1.ftcdn.net
 Sazonov, Viktor (n.d.). Deep space, stars and nebula. Spherical environment HDRI map, 360 degrees panorama, equirectangular projection. https://as2.ftcdn.net/v2/jpg/01/88/87/35/1000_F_188873545_DFE0y94X58bgP6bYSGvU1I8oXZWOicxl.jpg
 
 TenWit. (n.d.). Ancient Egyptian hieroglyphics carved on a stone wall. https://as1.ftcdn.net/v2/jpg/03/98/12/30/1000_F_398123053_OTZVcEOx2NmitYsU4Gac13ZsX7scfVPt.jpg
+
+## License:
+
+The code is based on various tutorial code from LearnOpenGL.com.
+
+Tutorial code is © Joey DeVries and licensed under the CC BY 4.0 License.
+
+Modifications and additional contributions are © Shera Adams and licensed under the Apache 2.0 License.
+
+Proudly crafted with ❤️ by Shera Adams.
